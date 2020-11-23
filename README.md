@@ -13,4 +13,4 @@ This domain is intended as link collection and subdomain provider for the rC3 20
 
 ## Subdomain directory
 Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desired subdomain name to this list. Specify A/AAAA in the pull request description.
-- [meet.rc3.io](https://meet.rc3.io) Forwards to senfcall.de, a donation based and GDPR compliant BigBlueButton service for thousands of concurrent users (100 max per session).
+- [meet.rc3.io](https://meet.rc3.io) Forwards to senfcall.de, a donation based and GDPR compliant BigBlueButton service for many concurrent users (100 max per session).
