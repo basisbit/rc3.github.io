@@ -1,7 +1,8 @@
-# RC3.io
-This domain is intended as link collection and subdomain provider for the rC3 2020 from the CCC. This domain is not anything official from the CCC.
+# remote Chaos Experience - rC3
+This domain is intended as link collection and subdomain provider for the rC3 2020 - the replacement event for the Chaos Communication Congress of 2020. This domain is not anything official from the CCC.
 
 ## CCC event websites
+- [rC3 Ticket Presale](https://tickets.events.ccc.de/RC3/)
 - [CCC Event Blog](https://events.ccc.de/)
 - [HowTo rC3](https://howto.rc3.world/)
 - [rC3 Styleguide](https://styleguide.rc3.world/)
