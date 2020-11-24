@@ -1,5 +1,5 @@
 # Remote Chaos Experience - rC3
-This domain is intended as link collection and subdomain provider for the rC3 2020 - the replacement event for the Chaos Communication Congress of 2020. The rC3 event will be heavily based on an online 2D [workadventure](workadventu.re) game with video conferencing and heavily customizable pixelart maps (see HowTo).
+This domain is intended as link collection and subdomain provider for the rC3 2020 - the replacement event for the Chaos Communication Congress of 2020. The rC3 event will be heavily based on an online 2D [workadventure](https://workadventu.re/) game with video conferencing and heavily customizable pixelart maps (see HowTo).
 
 ### CCC "official"
 - [rC3 Ticket Presale](https://tickets.events.ccc.de/RC3/)
