@@ -14,7 +14,7 @@ This domain is intended as link collection and subdomain provider for the rC3 20
 - [rC3 Sticker Exchange](https://stickeroperation.center/2020/10/26/c3-sticker-exchange/)
 - [rC3 Stylegenerator](https://rc3.bleeptrack.de/)
 - [rC3.io subdomain service](https://rc3.io/#subdomain-directory)
-
+- [rC3 Bändchen (no ticket)](https://pretix.hmnd.de/hmnd/rc3/)
 
 ### Subdomain directory
 Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desired subdomain name to this list. Specify target IPv4/IPv6/... in the pull request description. First come, first serve. Subdomains which are dead for a couple of days may be replaced/reused.
