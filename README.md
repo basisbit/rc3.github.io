@@ -2,7 +2,7 @@
 This domain is intended as subdomain provider for community projects during the rC3 2020 - the replacement event for the Chaos Communication Congress of 2020. The rC3 event will be heavily based on an online 2D [workadventure](https://workadventu.re/) game with video conferencing and heavily customizable pixelart maps (see HowTo).
 
 See [rc3.world](https://rc3.world) for the official event website from the 
-CCCV Chaos Computer Club Veranstaltungsgesellschaft mbH. Any projects hosted under `*.rc3.io` are community-operated projects which are not affiliated with the CCCV mbH or the CCC e.V.
+CCCV Chaos Computer Club Veranstaltungsgesellschaft mbH. Any projects hosted under `*.rc3.io` are community-operated projects which are not affiliated with the CCCV GmbH or the CCC e.V.
 
 ### some more rC3 related websites from the community
 - [rC3 Sticker Exchange](https://stickeroperation.center/2020/10/26/c3-sticker-exchange/)
