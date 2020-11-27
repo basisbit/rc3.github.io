@@ -1,16 +1,9 @@
 # Remote Chaos Experience - rC3
-This domain is intended as link collection and subdomain provider for the rC3 2020 - the replacement event for the Chaos Communication Congress of 2020. The rC3 event will be heavily based on an online 2D [workadventure](https://workadventu.re/) game with video conferencing and heavily customizable pixelart maps (see HowTo).
+This domain is intended as subdomain provider for community projects during the rC3 2020 - the replacement event for the Chaos Communication Congress of 2020. The rC3 event will be heavily based on an online 2D [workadventure](https://workadventu.re/) game with video conferencing and heavily customizable pixelart maps (see HowTo).
 
-### CCC "official"
-- [rC3 Ticket Presale](https://tickets.events.ccc.de/RC3/)
-- [rC3 Merchandise Shop](https://merch.rc3.world/)
-- [HowTo rC3](https://howto.rc3.world/)
-- [rC3 Styleguide](https://styleguide.rc3.world/)
-- [CCC Event Blog](https://events.ccc.de/)
-- [CCC Livestreaming](https://streaming.media.ccc.de/)
-- [CCC Video-on-Demand](https://media.ccc.de/)
+See [rc3.world](https://rc3.world) for the official event website from the CCCV. Any projects hosted under `*.rc3.io` are not official community-operated projects which are not affiliated with the CCCV.
 
-### rC3 community
+### some more rC3 related websites from the community
 - [rC3 Sticker Exchange](https://stickeroperation.center/2020/10/26/c3-sticker-exchange/)
 - [rC3 Stylegenerator](https://rc3.bleeptrack.de/)
 - [rC3.io subdomain service](https://rc3.io/#subdomain-directory)
