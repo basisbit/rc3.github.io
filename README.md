@@ -11,6 +11,7 @@ Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desir
 - [bronies.rc3.io](https://bronies.rc3.io) for the Chaos Bronies [@chaosbronies](https://t.me/chaosbronies)
 - [paradise.rc3.io](https://paradise.rc3.io), [db.rc3.io](https://db.rc3.io) and [lounge.rc3.io](https://lounge.rc3.io) for the rC3 Paradise Lounge
 - [fahrplan.rc3.io](https://fahrplan.rc3.io) main event schedule for the rC3
+- [pixelflut.rc3.io](https://pixelflut.rc3.io) Pixelflut Server hosted by [@schenklklopfer@chaos.social](https://chaos.social/@schenklklopfer)
 - [sdrctf.rc3.io](https://sdrctf.rc3.io) SDR Capture the Flag Game
 
 service provided by [basisbit](https://chaos.social/@basisbit) - you can call me at 4200 @ Eventphone
