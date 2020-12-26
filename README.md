@@ -10,6 +10,7 @@ Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desir
 - [freedom.rc3.io](https://freedom.rc3.io) and [future.rc3.io](https://future.rc3.io) website for the about:freedom and about:future clusters, in lieu of the usual wiki page
 - [bronies.rc3.io](https://bronies.rc3.io) for the Chaos Bronies [@chaosbronies](https://t.me/chaosbronies)
 - [paradise.rc3.io](https://paradise.rc3.io), [db.rc3.io](https://db.rc3.io) and [lounge.rc3.io](https://lounge.rc3.io) for the rC3 Paradise Lounge
+- [fahrplan.rc3.io](https://fahrplan.rc3.io) main event schedule for the rC3
 
 
 service provided by [basisbit](https://chaos.social/@basisbit) - you can call me at 4200 @ Eventphone
