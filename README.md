@@ -9,6 +9,7 @@ Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desir
 - [meet.rc3.io](https://meet.rc3.io) Forwards to senfcall.de, a donation based and GDPR compliant BigBlueButton service for many concurrent users (150 max per session).
 - [freedom.rc3.io](https://freedom.rc3.io) and [future.rc3.io](https://future.rc3.io) website for the about:freedom and about:future clusters, in lieu of the usual wiki page
 - [bronies.rc3.io](https://bronies.rc3.io) for the Chaos Bronies [@chaosbronies](https://t.me/chaosbronies)
+- [paradise.rc3.io](https://paradise.rc3.io), [db.rc3.io](https://db.rc3.io) and [lounge.rc3.io](https://lounge.rc3.io) for the rC3 Paradise Lounge
 
 
 service provided by [basisbit](https://chaos.social/@basisbit) - you can call me at 4200 @ Eventphone
