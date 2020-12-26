@@ -15,4 +15,4 @@ Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desir
 - [pixelflut.rc3.io](https://pixelflut.rc3.io) Pixelflut Server hosted by [@schenklklopfer@chaos.social](https://chaos.social/@schenklklopfer)
 - [sdrctf.rc3.io](https://sdrctf.rc3.io) SDR Capture the Flag Game
 
-service provided by [basisbit](https://chaos.social/@basisbit) - you can call me at 4200 @ Eventphone
+service provided by [basisbit](https://chaos.social/@basisbit) - you can call me at 4200 @ Eventphone (+49 5361 890286 4200)
