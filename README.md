@@ -9,6 +9,7 @@ Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desir
 - [bronies.rc3.io](https://bronies.rc3.io) for the Chaos Bronies [@chaosbronies](https://t.me/chaosbronies)
 - [fahrplan.rc3.io](https://fahrplan.rc3.io) incomplete draft of main event schedule for the rC3
 - [freedom.rc3.io](https://freedom.rc3.io) and [future.rc3.io](https://future.rc3.io) website for the about:freedom and about:future clusters, in lieu of the usual wiki page
+- [links.rc3.io](https://links.rc3.io) link list for the rC3 in the awesome-list-style (pull requests are welcome)
 - [meet.rc3.io](https://meet.rc3.io) Forwards to senfcall.de, a donation based and GDPR compliant BigBlueButton service for many concurrent users (150 max per session).
 - [paradise.rc3.io](https://paradise.rc3.io), [db.rc3.io](https://db.rc3.io) and [lounge.rc3.io](https://lounge.rc3.io) for the rC3 Paradise Lounge
 - [pixelflut.rc3.io](https://pixelflut.rc3.io) Pixelflut Server hosted by [@schenklklopfer@chaos.social](https://chaos.social/@schenklklopfer)
