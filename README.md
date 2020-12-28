@@ -12,9 +12,9 @@ Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desir
 - [links.rc3.io](https://links.rc3.io) link list for the rC3 in the awesome-list-style (pull requests are welcome)
 - [meet.rc3.io](https://meet.rc3.io) Forwards to senfcall.de, a donation based and GDPR compliant BigBlueButton service for many concurrent users (150 max per session).
 - [paradise.rc3.io](https://paradise.rc3.io), [db.rc3.io](https://db.rc3.io) and [lounge.rc3.io](https://lounge.rc3.io) for the rC3 Paradise Lounge
+- [pixelbaer.rc3.io](https://pixelbaer.rc3.io) Pixelflut Server hosted by [@hirschnase@mastodon.social](https://mastodon.social/@hirschnase). Please push your pixels to tcp/8080. View the result via VNC: pixelbaer.hirschna.se:5900
 - [pixelflut.rc3.io](https://pixelflut.rc3.io) Pixelflut Server hosted by [@schenklklopfer@chaos.social](https://chaos.social/@schenklklopfer)
 - [sdrctf.rc3.io](https://sdrctf.rc3.io) SDR Capture the Flag Game
-- [pixelbaer.rc3.io](https://pixelbaer.rc3.io) Pixelflut Server hosted by [@hirschnase@mastodon.social](https://mastodon.social/@hirschnase). Please push your pixels to tcp/8080. View the result via VNC: pixelbaer.hirschna.se:5900
 
 
 service provided by [basisbit](https://chaos.social/@basisbit) - you can call me at 4200 @ Eventphone (+49 5361 890286 4200)
