@@ -15,6 +15,6 @@ Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desir
 - [pixelbaer.rc3.io](https://pixelbaer.rc3.io) Pixelflut Server hosted by [@hirschnase@mastodon.social](https://mastodon.social/@hirschnase). Please push your pixels to tcp/8080. View the H.264 Stream via VLC here http://pixelbaer.hirschna.se:8081/stream.mp4
 - [pixelflut.rc3.io](https://pixelflut.rc3.io) Pixelflut Server hosted by [@schenklklopfer@chaos.social](https://chaos.social/@schenklklopfer)
 - [sdrctf.rc3.io](https://sdrctf.rc3.io) SDR Capture the Flag Game
-- [pixelhacc.rc3.io](https://pixelhacc.rc3.io) hardware pixelflut by [rinderhacc](https://github.com/CamelCaseName)
+- [pixelhacc.rc3.io](https://pixelhacc.rc3.io) hardware pixelflut by [rinderhacc](https://github.com/CamelCaseName), use on port 1337.
 
 service provided by [basisbit](https://chaos.social/@basisbit) - you can call me at 4200 @ Eventphone (+49 5361 890286 4200)
