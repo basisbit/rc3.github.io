@@ -1,8 +1,18 @@
-# Remote Chaos Experience - rC3
-This domain is intended as subdomain provider for community projects during the rC3 2020 - the replacement event for the Chaos Communication Congress of 2020. The rC3 event will be heavily based on an online 2D [workadventure](https://workadventu.re/) game with video conferencing and heavily customizable pixelart maps (see HowTo).
+# Remote Chaos Experience - rC3 2021 NOWHERE
+This domain is intended as subdomain provider for community projects during the rC3 2021 - the replacement event for the Chaos Communication Congress of 2021. 
 
-See [rc3.world](https://rc3.world) for the official event website from the 
+- Event announcement: https://events.ccc.de/2021/10/13/remote-chaos-experience/
+- Event topic & name: https://events.ccc.de/2021/11/08/rc3-2021-nowhere/
+- Remote Rhein Ruhr Stage CfP: https://pretalx.c3voc.de/rc3-2021-r3s/
+
+See [ccc.de](https://ccc.de) for the official event website from the 
 CCCV Chaos Computer Club Veranstaltungsgesellschaft mbH. Any projects hosted under `*.rc3.io` are community-operated projects which are not affiliated with the CCCV GmbH or the CCC e.V.
+
+
+### ------ Leftover from rc3.io for last year's event. TODO update ------
+
+The rC3 event will be heavily based on an online 2D [workadventure](https://workadventu.re/) game with video conferencing and heavily customizable pixelart maps (see HowTo).
+
 
 ### Subdomain directory
 Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desired subdomain name to this list. Specify target IPv4/IPv6/CNAME/... in the pull request description. First come, first serve. Subdomains which are dead for a couple of days may be replaced/reused.
