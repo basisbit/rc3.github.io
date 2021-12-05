@@ -8,6 +8,10 @@ This domain is intended as subdomain provider for community projects during the 
 See [ccc.de](https://ccc.de) for the official event website from the 
 CCCV Chaos Computer Club Veranstaltungsgesellschaft mbH. Any projects hosted under `*.rc3.io` are community-operated projects which are not affiliated with the CCCV GmbH or the CCC e.V.
 
+### Subdomain directory
+Use [pull requests](https://github.com/basisbit/rc3.github.io) to add your desired subdomain name to this list. Specify target IPv4/IPv6/CNAME/... in the pull request description. First come, first serve. Subdomains which are dead for a couple of days may be replaced/reused.
+- [links.rc3.io](https://links.rc3.io) link list for the rC3 in the awesome-list-style (pull requests are welcome)
+
 
 ### ------ Leftover from rc3.io for last year's event. TODO update ------
 
